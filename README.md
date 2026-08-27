@@ -235,12 +235,12 @@ call-center-performance-analysis/
 ├── README.md
 ├── PowerBI/
 │   └── Call_Center_Performance_Dashboard.pbix
-├── Screenshots/
+├── Visualizations/
 │   ├── 01_Executive_Overview.png
-│   ├── 02_Workforce_Staffing_Analysis.png
-│   ├── 03_Interval_Root_Cause_Analysis.png
-│   ├── 04_Adherence_Worst_Observations.png
-│   └── 05_Business_Insights_Recommendations.png
+│   ├── 02_Staffing Analysis.png
+│   ├── 03_Interval Analysis.png
+│   ├── 04_Performance Exceptions.png
+│   └── 05_Business Insights.png
 └── Documentation/
     └── Project_Case_Study.pdf
 ```
