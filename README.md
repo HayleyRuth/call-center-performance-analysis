@@ -34,36 +34,20 @@ The dataset contains interval-level call center records for January
 
 Key fields include:
 
-\-----------------------------------------------------------------------------
-
-Field                               Description
-
-\-----------------------------------------------------------------------------
-
-Date                                Date of the operational record
-
-Day                                 Day of the week
-
-Interval                            Operating time interval
-
-Queue                               Service queue
-
-Calls Offered                       Calls presented to the queue
-
-Calls Answered                      Calls answered
-
-Calls Abandoned                     Calls abandoned
-
-Service Level %                     Percentage of calls meeting the SLA
-definition
-
-AHT Seconds                         Average Handle Time
-
-Required Staff                      Calculated staffing requirement
-
-Scheduled Staff                     Agents scheduled
-
-Adherence %                         Schedule adherence
+| Field | Description |
+|---|---|
+| `Date` | Date of the operational record |
+| `Day` | Day of the week |
+| `Interval` | Operating time interval |
+| `Queue` | Service queue |
+| `Calls Offered` | Calls presented to the queue |
+| `Calls Answered` | Calls answered |
+| `Calls Abandoned` | Calls abandoned |
+| `Service Level %` | Percentage of calls meeting the SLA |
+| `Required Staff` | Number of agents required based on demand |
+| `Scheduled Staff` | Number of agents scheduled |
+| `Staffing Gap` | Difference between required and scheduled staffing |
+| `Adherence %` | Percentage of time staffing followed the planned schedule |
 
 Effective Staff                     Effective staffing measure
 available in the dataset
