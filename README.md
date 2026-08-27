@@ -48,10 +48,7 @@ Key fields include:
 | `Scheduled Staff` | Number of agents scheduled |
 | `Staffing Gap` | Difference between required and scheduled staffing |
 | `Adherence %` | Percentage of time staffing followed the planned schedule |
-
-Effective Staff                     Effective staffing measure
-available in the dataset
----
+|`Effective Staff`| Effective staffing measure available in the dataset |
 
 ## Data Preparation \& Validation
 
