@@ -34,11 +34,11 @@ The dataset contains interval-level call center records for January
 
 Key fields include:
 
-\---
+\-----------------------------------------------------------------------------
 
 Field                               Description
 
-\---
+\-----------------------------------------------------------------------------
 
 Date                                Date of the operational record
 
@@ -249,6 +249,7 @@ Validation · KPI Development · Data Visualization · Workforce Analytics
 
 ## Repository Structure
 
+```text
 call-center-performance-analysis/
 ├── README.md
 ├── PowerBI/
@@ -261,6 +262,7 @@ call-center-performance-analysis/
 │   └── 05_Business_Insights_Recommendations.png
 └── Documentation/
     └── Project_Case_Study.pdf
+```
 
 ## Project Status
 
